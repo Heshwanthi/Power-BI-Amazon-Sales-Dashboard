@@ -16,7 +16,8 @@ Tools & Technologies
 - Power BI– Dashboard creation & visual analytics  
 - Power Query– Data cleaning & transformation
 
-![Amazon Dashboard](amazon_dashboard.png)
+![Amazon Dashboard](amazon_dashboard.png)<img width="1379" height="760" alt="Amazon_sales_dashboard" src="https://github.com/user-attachments/assets/159859f7-5e21-49ec-a33e-42935010c04a" />
+
 Repository Contents
 - `amazon_sales.pbix` → Power BI dashboard file  
 - `Amazon_sales_dashboard.png` → Dashboard screenshot  
